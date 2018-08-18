@@ -1,6 +1,4 @@
 # FlexibleAlertView
-FlexibleAlertView using Autolayout
-
 Flexible Custom Alertview using Autolayout.
 
 https://youtu.be/nLIKITrmNus
