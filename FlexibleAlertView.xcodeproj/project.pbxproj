@@ -12,6 +12,8 @@
 		A9830B6E2127D09B001B6184 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9830B6C2127D09B001B6184 /* Main.storyboard */; };
 		A9830B702127D09C001B6184 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9830B6F2127D09C001B6184 /* Assets.xcassets */; };
 		A9830B732127D09C001B6184 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9830B712127D09C001B6184 /* LaunchScreen.storyboard */; };
+		A9830B7B2127D0E6001B6184 /* FlexibleAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9830B7A2127D0E6001B6184 /* FlexibleAlertView.swift */; };
+		A9830B7D2127D0ED001B6184 /* FlexibleAlertView.xib in Resources */ = {isa = PBXBuildFile; fileRef = A9830B7C2127D0ED001B6184 /* FlexibleAlertView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A9830B6F2127D09C001B6184 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9830B722127D09C001B6184 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9830B742127D09C001B6184 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9830B7A2127D0E6001B6184 /* FlexibleAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlexibleAlertView.swift; sourceTree = "<group>"; };
+		A9830B7C2127D0ED001B6184 /* FlexibleAlertView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FlexibleAlertView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				A9830B682127D09B001B6184 /* AppDelegate.swift */,
 				A9830B6A2127D09B001B6184 /* ViewController.swift */,
 				A9830B6C2127D09B001B6184 /* Main.storyboard */,
+				A9830B7A2127D0E6001B6184 /* FlexibleAlertView.swift */,
+				A9830B7C2127D0ED001B6184 /* FlexibleAlertView.xib */,
 				A9830B6F2127D09C001B6184 /* Assets.xcassets */,
 				A9830B712127D09C001B6184 /* LaunchScreen.storyboard */,
 				A9830B742127D09C001B6184 /* Info.plist */,
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9830B7D2127D0ED001B6184 /* FlexibleAlertView.xib in Resources */,
 				A9830B732127D09C001B6184 /* LaunchScreen.storyboard in Resources */,
 				A9830B702127D09C001B6184 /* Assets.xcassets in Resources */,
 				A9830B6E2127D09B001B6184 /* Main.storyboard in Resources */,
@@ -135,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9830B7B2127D0E6001B6184 /* FlexibleAlertView.swift in Sources */,
 				A9830B6B2127D09B001B6184 /* ViewController.swift in Sources */,
 				A9830B692127D09B001B6184 /* AppDelegate.swift in Sources */,
 			);
