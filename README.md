@@ -1,8 +1,13 @@
 # FlexibleAlertView
 Flexible Custom Alertview using Autolayout.
 
-https://youtu.be/nLIKITrmNus
+Step-by-Step Tutorial
 
-https://youtu.be/_hBkmZuFx-g
+1. iOS Flexible Custom Alertview using Autolayout #1 - Basic Setting
+https://www.youtube.com/watch?v=nLIKITrmNus
 
-https://youtu.be/Iu5A68RNWhk
+2. iOS Flexible Custom Alertview using Autolayout #2 - UI Setting
+https://www.youtube.com/watch?v=_hBkmZuFx-g&t=8s
+
+3. iOS Flexible Custom Alertview using Autolayout #3 - Autolayout
+https://www.youtube.com/watch?v=Iu5A68RNWhk
